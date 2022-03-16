@@ -8,11 +8,11 @@
 ### <u>Aktuelles</u>
 Hallo wir sind <u>**OxygenNetwork**</u> ein Minecraft Server in der Minecraft Java Version**1.18.2**.
 
-Wir arbeiten aktuell an **PlanetAdventure**, dass ist ein Spielmodus in welchem es darum geht, **verschiedene** Planeten zu erkunden und auf diesen **Quests** zu **absolvieren**. Außerdem werden dort außerirdische Gegner gestellt die man **besiegen** muss. Des weiteren kannst du mit **anderen** Spielern **handeln**, um an **weitere** Ressourcen zu kommen.
+Wir arbeiten aktuell an **PlanetAdventure**, dass ist ein Spielmodus in welchem es darum geht, **verschiedene** Planeten zu Erkunden und auf diesen **Quests** zu **Absolvieren**. Außerdem werden dort Außerirdischegegner gestellt die man **besiegen** muss. Des Weiteren kannst du mit **anderen** Spielern **Handeln**, um an **weitere** Ressourcen zu kommen.
 
 ---------
 ### Team
-Wir sind aktuell noch ein sehr kleines Team. Wir suchen daher nach [neuen Teammitgliedern](#Bewerben).
+Wir sind aktuell noch ein sehr kleines Team. Wir Suchen daher nach [neuen Teammitgliedern](#Bewerben).
 
 #### <u>Unser Team</u>
 | Name | Rang |
