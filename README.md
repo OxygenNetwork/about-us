@@ -6,9 +6,9 @@
 - [Bewerben](#Bewerben)
 ----------
 ### <u>Aktuelles</u>
-Hallo wir sind <u>**OxygenNetwork**</u> ein Minecraft Server in der **1.18.2**.
+Hallo wir sind <u>**OxygenNetwork**</u> ein Minecraft Server in der Minecraft Java Version**1.18.2**.
 
-Wir Arbeiten aktuell an **Planet Adventure**, dass ist ein Spielmodus indem es darum geht **verschiedene** Planeten zu erkunden und dabei verschiedene **Quests** zu **absolvieren**. Außerdem werden dir dort Außerirdische Gegner gestellt die man **Besiegen** muss. Aber du kannst ebenfalls mit **anderen** Spielern zu **handeln** um an **mehr** Ressourcen zu kommen.
+Wir arbeiten aktuell an **PlanetAdventure**, dass ist ein Spielmodus in welchem es darum geht, **verschiedene** Planeten zu erkunden und auf diesen **Quests** zu **absolvieren**. Außerdem werden dort außerirdische Gegner gestellt die man **besiegen** muss. Des weiteren kannst du mit **anderen** Spielern **handeln**, um an **weitere** Ressourcen zu kommen.
 
 ---------
 ### Team
@@ -22,13 +22,13 @@ Wir sind aktuell noch ein sehr kleines Team. Wir suchen daher nach [neuen Teammi
 | ErfinderLabyrinth | Developer |
 | Lordmaul | Content |
 
-Wenn du dich gerne bei uns **Bewerben** möchtest. Kannst du es gerne [hier](#Bewerben) machen.
+Wenn du dich bei uns **Bewerben** möchtest, ist dies [hier](#Bewerben) möglich.
 
 ---------
 ### Social
-Du kannst [hier](https://oxygennetwork.net) **unsere** Website gerne Besuchen. Hier werden wir die **neusten** Updates zum Server veröffentlichen.
+Du kannst **unsere** Website [hier](https://oxygennetwork.net) besuchen. Hier werden wir die **neusten** Updates zum Server veröffentlichen.
 
-Aber du kannst auch gerne unseren [Discord](https://discord.gg/Pa2xFYabKW) besuchen und dich dort mit **unsere** Community **verknüpfen**.
+Aber du kannst auch gerne unseren [Discord-Server](https://discord.gg/Pa2xFYabKW) besuchen und dich dort mit **unserer** Community **verknüpfen**.
 
 ---------
 ## Bewerben
@@ -37,17 +37,17 @@ Aber du kannst auch gerne unseren [Discord](https://discord.gg/Pa2xFYabKW) besuc
 > Aktivität im voraus auf dem Server (optimal 10h Spielzeit) <br>
 > Ausgereifte Geistigereife <br>
 > gute Audioqualität <br>
-> Erfahrungen im bereich MySQL, Github, Java, Paper-API, Waterfall-API, NMS, CloudNet-API's <br>
+> Erfahrungen in den Bereichen **MySQL, Github, Java, Paper-API, Waterfall-API, NMS, CloudNet-API's** <br>
 > Kentnisse in Maven <br>
 > vorzeigbare Plugins<br>
 ---
 > ### Bewerbung als Content bei OxygenNetwork
 > Kreativität 
 > Aktivität im voraus auf dem Server (optimal 10h Spielzeit) <br>
-> Ausgereifte Geistigereife<br>
+> Ausgereifte geistige Reife<br>
 > gute Audioqualität<br>
-> Erfahrungen im bereich Content <br>
-> gute Deutschkentnisse (Rechtschreibung)<br>
+> Erfahrungen im Bereich Content <br>
+> gute Deutschkentnisse (Rechtschreibung und Grammatik)<br>
 ---
 > ### Bewerbung als Supporter bei OxygenNetwork
 > 
