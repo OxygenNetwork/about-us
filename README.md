@@ -2,7 +2,7 @@
 ### Inhalte
 - [Aktuell](#Aktuelles)
 - [Das Team](#Team)
-- [Social Links](#Socail)
+- [Social Links](#Social)
 - [Bewerben](#Bewerben)
 ----------
 ### <u>Aktuelles</u>
