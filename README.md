@@ -38,7 +38,8 @@ Aber du kannst auch gerne unseren [Discord](https://discord.gg/Pa2xFYabKW) besuc
 > Ausgereifte Geistigereife 
 > gute Audioqualität 
 > Erfahrungen im bereich MySQL, Github, Java, Paper-API, Waterfall-API, NMS, CloudNet-API's 
-> Kentnisse in Maven - vorzeigbare Plugins
+> Kentnisse in Maven 
+> vorzeigbare Plugins
 ---
 > ### Bewerbung als Content bei OxygenNetwork 
 > Kreativität 
