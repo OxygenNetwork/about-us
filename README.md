@@ -34,20 +34,20 @@ Aber du kannst auch gerne unseren [Discord](https://discord.gg/Pa2xFYabKW) besuc
 ## Bewerben
 
 > ### Bewerbung als Developer bei OxygenNetwork
-> Aktivität im voraus auf dem Server (optimal 10h Spielzeit) 
-> Ausgereifte Geistigereife 
-> gute Audioqualität 
-> Erfahrungen im bereich MySQL, Github, Java, Paper-API, Waterfall-API, NMS, CloudNet-API's 
-> Kentnisse in Maven 
-> vorzeigbare Plugins
+> Aktivität im voraus auf dem Server (optimal 10h Spielzeit) <br>
+> Ausgereifte Geistigereife <br>
+> gute Audioqualität <br>
+> Erfahrungen im bereich MySQL, Github, Java, Paper-API, Waterfall-API, NMS, CloudNet-API's <br>
+> Kentnisse in Maven <br>
+> vorzeigbare Plugins<br>
 ---
-> ### Bewerbung als Content bei OxygenNetwork 
+> ### Bewerbung als Content bei OxygenNetwork
 > Kreativität 
-> Aktivität im voraus auf dem Server (optimal 10h Spielzeit) 
-> Ausgereifte Geistigereife
-> gute Audioqualität
-> Erfahrungen im bereich Content 
-> gute Deutschkentnisse (Rechtschreibung)
+> Aktivität im voraus auf dem Server (optimal 10h Spielzeit) <br>
+> Ausgereifte Geistigereife<br>
+> gute Audioqualität<br>
+> Erfahrungen im bereich Content <br>
+> gute Deutschkentnisse (Rechtschreibung)<br>
 ---
 > ### Bewerbung als Supporter bei OxygenNetwork
 > 
