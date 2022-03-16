@@ -26,7 +26,7 @@ Wenn du dich bei uns **Bewerben** möchtest, ist dies [hier](#Bewerben) möglich
 
 ---------
 ### Social
-Du kannst **unsere** Website [hier](https://oxygennetwork.net) besuchen. Hier werden wir die **neusten** Updates zum Server veröffentlichen.
+Du kannst unsere **Website** [hier](http://oxygennetwork.net) besuchen. Hier werden wir die **neusten** Updates zum Server veröffentlichen.
 
 Aber du kannst auch gerne unseren [Discord-Server](https://discord.gg/Pa2xFYabKW) besuchen und dich dort mit **unserer** Community **verknüpfen**.
 
